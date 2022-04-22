@@ -1,0 +1,2 @@
+height=15
+used to increase no of columns in treeview tkinters
