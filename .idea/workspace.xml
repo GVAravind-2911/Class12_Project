@@ -227,8 +227,16 @@
       <workItem from="1648024252637" duration="636000" />
       <workItem from="1648025771146" duration="5938000" />
       <workItem from="1648097400530" duration="4314000" />
-      <workItem from="1650601232865" duration="1985000" />
+      <workItem from="1650601232865" duration="2351000" />
     </task>
+    <task id="LOCAL-00001" summary="helooo">
+      <created>1650603294618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650603294618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +252,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="helooo" />
+    <option name="LAST_COMMIT_MESSAGE" value="helooo" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/guieditable_py$guifinal.coverage" NAME="FinalGUI Coverage Results" MODIFIED="1648101588136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
